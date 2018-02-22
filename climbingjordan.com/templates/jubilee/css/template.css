@@ -1,0 +1,240 @@
+.static {
+	width:980px;
+	margin:0 auto;
+}
+.fluid {
+	width:100%;
+	margin:0 auto;
+}
+#header {
+	height:117px;
+}
+#logo {
+	float:left;
+}
+#logo {
+	margin:0;
+	padding:0;
+	text-indent:-9999px;
+}
+#logo h2 {
+	margin:0;
+}
+#logo a {
+	display:block;
+	width:200px;
+	height:115px;
+}
+#topmenu {
+	height:35px;
+}
+#topmenu ul {
+	margin:0;
+	padding:0;
+	list-style:none;
+	float:right;
+}
+#topmenu ul li {
+	display:inline;
+}
+#topmenu ul li a {
+	margin-left:5px;
+	line-height:35px;
+}
+#search {
+	float:right;
+	margin:20px 0;
+}
+#search label {
+	display:none;
+}
+#search .inputbox {
+	background:transparent;
+	border:0;
+	width: 200px;
+	padding: 5px;
+	width: 285px;
+	margin:0 5px;
+}
+#search .button {
+	background: transparent;
+	border: 0 none;
+	padding: 0;
+	margin:3px 5px;
+	width: 18px;
+	height:17px;
+	text-indent:-9999px;
+	cursor:pointer;
+}
+#mainmenu {
+	position:relative;
+	z-index:9000;
+	text-align:left;
+	height:40px;
+}
+#mainmenu ul, #mainmenu ul li, #mainmenu ul ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+#mainmenu ul {
+	position: relative;
+	z-index: 597;
+	float: left;
+}
+#mainmenu ul li {
+	float: left;
+	line-height: 1.3em;
+	vertical-align: middle;
+	zoom: 1;
+}
+#mainmenu ul li a {
+	display:block;
+	text-decoration:none;
+	position:relative;
+	padding:10px;
+}
+#mainmenu ul li.hover, #mainmenu ul li:hover {
+	position: relative;
+	z-index: 599;
+	cursor: default;
+}
+#mainmenu ul ul {
+	visibility: hidden;
+	position: absolute;
+	top: 100%;
+	left: 0;
+	z-index: 598;
+	width: auto;
+	min-width:200px;
+	text-transform:capitalize;
+	font-size:13px;
+	padding:5px;
+	border-radius:0 0 5px 5px;
+	-moz-border-radius:0 0 5px 5px;
+	-webkit-border-radius:0 0 5px 5px;
+}
+#mainmenu ul ul li {
+	float: none;
+	white-space:nowrap;
+	margin:0;
+	padding:0;
+}
+#mainmenu ul ul li a {
+	padding:5px;
+	font-size:12px;
+	font-weight:normal;
+	border-radius:0;
+}
+#mainmenu ul ul ul {
+	top:-5px;
+	left:100%;
+	border-radius:5px;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+}
+#mainmenu ul li:hover > ul {
+	visibility:visible;
+}
+#banner-inner2 {
+	padding:15px 0;
+}
+#breadcrumbs {
+	padding:10px 0;
+	white-space:nowrap;
+	overflow:hidden;
+}
+#breadcrumbs a, #breadcrumbs span {
+	margin:0 5px;
+}
+#pagetitle {
+	text-align:right;
+	overflow:hidden;
+}
+#pagetitle h1 {
+	margin:10px 0;
+}
+#container {
+	padding-top:13px;
+}
+#container-inner {
+	padding:20px 0;
+	width:980px;
+	margin:0px auto;
+}
+
+/*  
+Added by Sebi
+17.01.2014
+
+-------------------
+*/
+
+#container-inner  div{
+
+    margin-bottom:10px;
+
+}
+
+#container-inner  div.phocagallery-box-file-third{
+
+    margin-bottom:0px;
+}
+
+
+#container-inner div#editor-xtd-buttons{
+
+    margin-bottom:0px;
+    padding:0px;
+    margin-top: 10px;
+}
+
+#container-inner table div{
+    margin-bottom:0px;
+}
+
+#container-inner td,th {
+    padding:5px;
+}
+
+#container-inner div.edit.item-page td{
+    padding:0px;
+}
+
+
+/*
+-------------------
+*/
+
+
+#modules-1,
+#modules-2,
+#modules-3,
+#modules-4 {
+	padding:20px 0;
+	margin:0 0 10px 0;
+}
+#modules-3 {
+	margin-top:10px;
+}
+#main, #sidebar, #sidebar2 {
+	overflow:hidden;
+}
+#footer {
+	text-align:center;
+	padding:10px 0;
+	font-size:0.9em;
+}
+#topmenu ul {
+	margin:0;
+	padding:0;
+	list-style:none;
+	float:right;
+}
+#footer ul li {
+	display:inline;
+}
+#footer ul li a {
+	margin-left:5px;
+	line-height:35px;
+}

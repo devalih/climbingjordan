@@ -1,0 +1,21 @@
+table{
+	border: 1px solid;
+	border-collapse: collapse;
+	border-left: 0px;
+	border-right: 0px;
+}
+
+td{
+
+	padding: 10px;
+
+}
+
+#phocagallery td{
+    padding: 0px;
+}
+
+tr:nth-child(odd){
+	background-color: #dddddd;
+}
+

@@ -1,0 +1,558 @@
+/* System Messages */
+#system-message dd.message ul {
+	background-position:4px 50%;
+}
+#system-message dd.message ul {
+    background-image: url(/climbingjordan.com/templates/jubilee/images/information.png);
+}
+#system-message dd.error ul {
+	background-image: url(/climbingjordan.com/templates/jubilee/images/error.png);
+}
+/* Random */
+.image-left {
+	float:left;
+	margin:0 10px 10px 0;
+}
+.image-right {
+	float:right;
+	margin:0 0 10px 10px;
+}
+input[type=text], input[type=password], select, textarea{
+	padding:4px;
+}
+button, input[type="reset"], 
+input[type="submit"], 
+input[type="button"],
+div.profile a {
+	font: bold 12px/1.2 Arial, sans-serif;
+	outline: 0;
+	overflow: visible;
+	padding: 4px 10px 4px;
+	width: auto;
+	cursor: pointer;
+	border-radius: 11px;
+	-moz-border-radius: 11px;
+	-webkit-border-radius: 11px;
+	-webkit-appearance: none;
+	/* IE7 */
+	*padding-top: 2px;
+	*padding-bottom: 0px;
+}
+button:focus, 
+button:active, 
+input:focus, 
+input:active, 
+select:focus, 
+select:active, 
+textarea:focus, 
+textarea:active,
+div.profile a:active {
+	z-index: 1;
+}
+p.readmore a, .readon a,
+a.readmore , a.readon {
+	font: bold 12px/1.2 Arial, sans-serif;
+	outline: 0;
+	overflow: visible;
+	padding: 4px 10px 4px;
+	margin:10px 0 10px 3px;
+	display:inline-block;
+	width: auto;
+	cursor: pointer;
+	border-radius: 11px;
+	-moz-border-radius: 11px;
+	-webkit-border-radius: 11px;
+	-webkit-appearance: none;
+	/* IE7 */
+	*padding-top: 2px;
+	*padding-bottom: 0px;
+	text-decoration:none;
+}
+.readmore a:active, .readon a:active,
+a.readmore:active , a.readon:active{
+	z-index: 1;
+}
+.tip-wrap {
+	padding:10px;	
+}
+/* Content Article */
+div.item-page {
+	position:relative;
+	margin:0 0 40px 0;
+}
+ul.actions {
+	margin:0;
+	padding:0;
+	list-style:none;
+	position:absolute;
+	top:0;
+	right:0;
+}
+ul.actions li {
+	margin:0;
+	padding:0;
+	list-style:none;
+	display:inline;
+}
+span.content_rating {
+	display:block;
+	margin:0 0 -10px 0;
+	padding:10px;
+}
+div.content_vote {
+	margin:0 0 10px 0;
+	padding:10px;
+}
+div.content_vote input {
+	margin:0 5px;
+}
+dl.article-info {
+	margin:10px 0;
+	padding:10px;
+}
+dt.article-info-term {
+	display:none;
+}
+dl.article-info dd {
+	margin:0 5px 0 0;
+	padding:3px 3px 3px 20px;
+	font-size:90%;
+	display:inline-block;
+}
+dl.article-info dd.parent-category-name {
+	background:url(/climbingjordan.com/templates/jubilee/images/folder_go.png) no-repeat 0 6px;
+}
+dl.article-info dd.category-name {
+	background:url(/climbingjordan.com/templates/jubilee/images/folder.png) no-repeat 0 6px;
+}
+dl.article-info dd.create {
+	background:url(/climbingjordan.com/templates/jubilee/images/date_add.png) no-repeat 0 6px;
+}
+dl.article-info dd.published {
+	background:url(/climbingjordan.com/templates/jubilee/images/date.png) no-repeat 0 6px;
+}
+dl.article-info dd.modified {
+	background:url(/climbingjordan.com/templates/jubilee/images/date_edit.png) no-repeat 0 6px;
+}
+dl.article-info dd.createdby {
+	background:url(/climbingjordan.com/templates/jubilee/images/user.png) no-repeat 0 6px;
+}
+dl.article-info dd.hits {
+	background:url(/climbingjordan.com/templates/jubilee/images/chart_bar.png) no-repeat 0 6px;
+}
+div#article-index {
+	display:block;
+	width:40%;
+	float:right;
+	margin:0 0 10px 10px;
+}
+div#article-index ul,
+div#article-index li {
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+div#article-index li {
+	padding:3px 5px;
+}
+/* Category Blog */
+div.items-leading {
+	margin:0 0 20px 0;
+}
+div.item-separator{
+	clear:both;
+	display:block;
+	height:1px;
+	margin:10px 0;
+}
+span.row-separator {
+	clear:both;
+	display:block;
+	height:1px;
+	margin:10px 0;
+}
+/* 2 column */
+div.items-row.cols-2 div.item {
+	width:48%;
+	margin:0 1%;
+	display:inline-block;
+	float:left;
+	overflow:hidden;
+}
+/* 3 column */
+div.items-row.cols-3 div.item {
+	width:30%;
+	margin:0 1%;
+	display:inline-block;
+	float:left;
+	overflow:hidden;
+}
+/* 4 column */
+div.items-row.cols-4 div.item {
+	width:23%;
+	margin:0 1%;
+	display:inline-block;
+	float:left;
+	overflow:hidden;
+}
+/* 5 column */
+div.items-row.cols-5 div.item {
+	width:18%;
+	margin:0 1%;
+	display:inline-block;
+	float:left;
+	overflow:hidden;
+}
+/* 6 column */
+div.items-row.cols-6 div.item {
+	width:14%;
+	margin:0 1%;
+	display:inline-block;
+	float:left;
+	overflow:hidden;
+}
+div.items-more {
+	padding:10px;
+	margin:10px 0;
+}
+div.items-more h3 {
+	margin:-10px -10px 10px -10px;
+	padding:10px;
+}
+div.items-more ol {
+	margin-left:20px;
+}
+div.pagination {
+	display:block;
+	margin:10px 0 30px 0;
+}
+div.pagination p.counter {
+	display:inline-block;
+	margin:0 10px 0 0;
+}
+div.pagination ul {
+	display:inline-block;
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+div.pagination li {
+	display:inline;
+}
+/* Categories List */
+div.categories-list,
+div.cat-children {
+	margin-bottom:20px;
+}
+div.categories-list ul,
+div.categories-list li,
+div.cat-children ul,
+div.cat-children li{
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+div.categories-list li,
+div.cat-children li {
+	margin:0 0 10px 0;
+	padding:10px;
+	overflow:hidden;
+}
+div.categories-list li span.item-title,
+div.cat-children  li span.item-title {
+	display:inline-block;
+	margin-right:10px;
+}
+div.categories-list li dl,
+div.cat-children li dl {
+	display:inline-block;
+	font-size:0.8em;
+}
+div.categories-list li dt,
+div.categories-list li dd,
+div.cat-children li dt,
+div.cat-children li dd {
+	display:inline-block;
+	margin:0 10px 0 0;
+}
+div.categories-list ul ul,
+div.cat-children ul ul {
+	clear:both;
+}
+div.base-desc {
+	margin:10px 0;
+}
+/* Category List */
+fieldset.filters {
+	margin:10px 0;
+	padding:10px;
+}
+fieldset.filters legend{
+	display:none;
+}
+fieldset.filters div.filter-search,
+fieldset.filters div.display-limit {
+	display:inline-block;
+}
+table.category {
+	margin:20px 0;
+	width:100%;
+}
+table.category th,
+table.category td {
+	padding:5px 8px;
+	text-align:left;
+}
+table.category th img {
+	display:none;
+}
+/* Archived Items */
+ul#archive-items {
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+ul#archive-items li {
+	margin:0 0 10px 0;
+	padding:0;
+	list-style:none;
+}
+/* Contact */
+div.contact {
+	margin:0 0 20px 0;
+}
+div.panel {
+	margin:3px 0;
+	padding:10px;
+}
+div.contact .contact-image {
+	float:right;
+}
+div.contact dd{
+	margin:10px 0;
+}
+div.contact address {
+	display:inline;
+	font-style:normal;
+}
+div.contact input[type=text], div.contact input[type=textarea] {
+	width:300px;
+}
+/* Newsfeeds */
+div.feed-description {
+	margin:10px 0;
+}
+div.newsfeed ol,
+div.newsfeed li {
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+div.newsfeed li {
+	margin:0 0 10px 0;
+	padding:10px;
+	overflow:hidden;
+}
+/* User Components */
+div.login,
+div.logout,
+div.registration,
+div.remind,
+div.reset,
+div.profile,
+div.profile-edit,
+div.edit  {
+	margin:0 0 20px 0;
+	padding:10px;
+	overflow:hidden;
+}
+div.login fieldset {
+	display:inline-block;
+}
+div.login label {
+	display:inline-block;
+	width:120px;
+}
+div.login input {
+	display:inline-block;
+	width:220px;
+}
+div.login button {
+	float:right;
+	margin:10px 0;
+}
+div.profile fieldset,
+div.profile-edit fieldset,
+div.registration fieldset,
+div.remind fieldset,
+div.reset fieldset{
+	padding:10px;
+}
+div.profile fieldset dd, 
+div.profile-edit fieldset dd,
+div.registration fieldset dd,
+div.remind fieldset dd,
+div.reset fieldset dd{
+	margin:5px 0;
+}
+div.profile a {
+	display:inline-block;
+	margin:20px 0;
+}
+/* Search */
+fieldset.word,
+div.searchintro,
+fieldset.phrases,
+fieldset.only {
+	margin:0 0 20px 0;
+	padding:10px;
+	overflow:hidden;
+}
+div.form-limit, p.counter {
+	display:inline-block;
+}
+dl.search-results{
+	margin:0 0 10px 0;
+	padding:10px;
+	list-style:none;
+}
+dt.result-title {
+	display:inline-block;
+}
+dd.result-category {
+	display:inline-block;
+	margin-left:10px;
+	font-size:0.9em;
+}
+dd.result-text {
+	margin:10px 0;
+	padding:0 0 10px 0;
+}
+dd.result-created {
+	margin:0 0 10px 0;
+	padding:0 0 10px 0;
+	font-size:0.9em;
+}
+span.highlight {
+	padding:0 5px;
+}
+/* Modules */
+div.moduletable {
+	margin-bottom: 2em;
+}
+div.moduletable h3 {
+	padding-bottom:5px;
+	margin:0 0 5px 0;
+}
+span.showHere {
+	display:none;
+}
+div.newsflash,
+div.newsflash h4 {
+	margin-left:0;
+	margin-right:0;
+	padding:0;
+}
+dl.stats-module {
+	margin:0;
+	padding:0;
+}
+dl.stats-module dt {
+	margin:0 5px 0 0;
+	padding:0;
+	float:left;
+	font-weight:bold;
+}
+ul.archive-module,
+ul.archive-module li,
+ul.mostread,
+ul.mostread li,
+ul.latestnews,
+ul.latestnews li,
+ul.weblinks,
+ul.weblinks li,
+ul.latestusers,
+ul.latestusers li,
+ul.newsfeed,
+ul.newsfeed li,
+ul.categories-module,
+ul.categories-module li,
+ul.category-module,
+ul.category-module li,
+ul.relateditems,
+ul.relateditems li,
+ul.whosonline,
+ul.whosonline li,
+ul.menusitemap,
+ul.menusitemap li,
+div.moduletable ul.menu,
+div.moduletable ul.menu li,
+#login-form ul,
+#login-form li,
+div.custom {
+	margin:0;
+	padding:0;
+	list-style:none;	
+}
+ul.archive-module li,
+ul.mostread li,
+ul.latestnews li,
+ul.weblinks li,
+ul.latestusers li,
+ul.relateditems li,
+ul.whosonline li,
+ul.menusitemap li,
+#login-form li {
+	display:block;
+	padding:3px 3px 3px 25px;
+}
+dl.stats-module dt {
+	display:inline-block;
+	padding:3px 3px 3px 25px;
+}
+dl.stats-module dd {
+	padding:3px 3px 3px 25px;
+}
+div.moduletable ul.menu ul {
+	margin:0;
+}
+div.moduletable ul.menu li a{
+	display:block;
+	padding:3px 3px 3px 10px;
+}
+div.moduletable ul.menu li li a{
+	padding:3px 3px 3px 15px;
+}
+div.moduletable ul.menu li li li a{
+	padding:3px 3px 3px 20px;
+}
+div.moduletable ul.menu li li li li a{
+	padding:3px 3px 3px 25px;
+}
+div.moduletable ul.menu li li li li li a{
+	padding:3px 3px 3px 30px;
+}
+#login-form label {
+	display:inline-block;
+}
+#login-form input[type=text], #login-form input[type=password] {
+	display:block;
+	margin:0;
+}
+div.bannergroup {
+	margin:10px 0;
+}
+ul.pagenav,
+ul.pagenav li {
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+ul.pagenav {
+	margin:10px 0 40px 0;
+}
+ul.pagenav li {
+	display:inline-block;
+	margin:0 5px;
+	padding:3px 5px;
+}

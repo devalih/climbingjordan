@@ -1,0 +1,322 @@
+* {
+	margin:0;
+	padding:0;
+}
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, dl, dt, dd, ol, ul, li, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, figure, footer, header, hgroup, menu, nav, section, menu, time, mark, audio, video {
+	margin:0;
+	padding:0;
+	border:0;
+	outline:0;
+	font-size:100%;
+	vertical-align:baseline;
+	background:transparent;
+}
+
+
+fieldset {
+	border: none;
+}
+.inputbox {
+	margin: 5px;
+}
+article, aside, figure, footer, header, hgroup, nav, section {
+	display:block;
+}
+nav ul {
+	list-style:none;
+}
+blockquote, q {
+	quotes:none;
+}
+blockquote:before, blockquote:after, q:before, q:after {
+	content:'';
+	content:none;
+}
+a {
+	margin:0;
+	padding:0;
+	font-size:100%;
+	vertical-align:baseline;
+	background:transparent;
+	outline:none;
+}
+ins {
+	background-color:#ff9;
+	color:#000;
+	text-decoration:none;
+}
+mark {
+	background-color:#ff9;
+	color:#000;
+	font-style:italic;
+	font-weight:bold;
+}
+del {
+	text-decoration: line-through;
+}
+abbr[title], dfn[title] {
+	cursor:help;
+}
+/* tables still need cellspacing="0" in the markup */
+table {
+	border-collapse:collapse;
+	border-spacing:0;
+	width: 100%;
+}
+hr {
+	display:block;
+	clear:both;
+	height:2px;
+	border:0;
+	margin:1.5em 0;
+	padding:0;
+}
+input, select {
+	vertical-align:middle;
+}
+label, legend, dt {
+	font-weight:bold;
+}
+legend {
+	font-size:1.3em;
+}
+h1, h2, h3, h4, h5, h6, p, blockquote, form, label, ul, ol, dl, fieldset, address {
+	margin: 0.5em 0;
+}
+ul, ol {
+	margin-left:1em;
+}
+li, dd {
+	margin-left:1em;
+}
+body {
+	font-size:86%;
+	line-height:1.5em;
+	font-family:'Droid Sans', Helvetica, Arial, sans-serif;
+}
+a {
+	text-decoration:none;
+}
+a:hover {
+	text-decoration:underline;
+}
+h1, .componentheading {
+	font-size:1.7em;
+	font-family:'Droid Serif', Helvetica, Arial, sans-serif;
+	font-weight:normal;
+}
+h2, .contentheading {
+	font-size:1.5em;
+	font-family:'Droid Serif', Helvetica, Arial, sans-serif;
+	font-weight:normal;
+}
+h3 {
+	font-size:1.3em;
+	font-family:'Droid Serif', Helvetica, Arial, sans-serif;
+	font-weight:normal;
+}
+h4 {
+	font-size:1.2em;
+}
+h5 {
+	font-size:1.1em;
+}
+h6 {
+	font-size:1em;
+	font-weight:bold;
+}
+/* typography */
+pre {
+	padding:10px;
+	margin:10px 0;
+	background:#FFF;
+	border:1px solid #EEE;
+	overflow:auto;
+}
+blockquote, blockquote.left, blockquote.right {
+	display: inline-block;
+    font-family: "Times New Roman",Times,serif;
+    font-size: 1.4em;
+    font-style: italic;
+    line-height: 25px;
+    margin: 10px 0;
+    padding: 15px;
+    text-shadow: 1px 1px 0 #FFFFFF;
+	border-radius:5px;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+}
+blockquote.left {
+	width:48%;
+    float: left;
+    margin: 0 10px 10px 0;
+}
+blockquote.right {
+	width:48%;
+    float: right;
+    margin: 0 0 10px 10px;
+}
+div.note, div.alert, div.info, div.email, div.download, div.warn, div.idea, div.accept, div.accept, div.secure, div.author, div.time, div.mycomment, div.tools {
+	text-align: left;
+	padding: 20px 10px 20px 70px;
+	border: 2px solid;
+	border-radius: 4px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-khtml-border-radius: 4px;
+	margin: 15px 0px 15px 0px;
+	line-height: 150%;
+	font-size: 13px;
+}
+div.note a, div.alert a, div.info a, div.email a, div.download a, div.warn a, div.idea a, div.accept a, div.accept a, div.secure a, div.author a, div.time a, div.mycomment a, div.tools a {
+	font-weight:bold;
+}
+div.note {
+	background:#FEF6D8 url(/climbingjordan.com/templates/jubilee/images/note.png) no-repeat 10px 50%;
+	border-color:#FDE179;
+	color:#B79000;
+	box-shadow: 1px 1px 0 #eff6ff inset, -1px -1px 0 #eff6ff inset;
+	-moz-box-shadow: 1px 1px 0 #eff6ff inset, -1px -1px 0 #eff6ff inset;
+	-webkit-box-shadow: 1px 1px 0 #eff6ff inset, -1px -1px 0 #eff6ff inset;
+	text-shadow: #fff 1px 1px 0;
+	-moz-text-shadow: #fff 1px 1px 0;
+	-webkit-text-shadow: #fff 1px 1px 0;
+}
+div.note a {
+	color:#B79000;
+}
+div.alert {
+	background: #FFD6D6 url(/climbingjordan.com/templates/jubilee/images/alert.png) no-repeat 10px 50%;
+	border-color: #FE7B7A;
+	color: #CC0000;
+	box-shadow: 1px 1px 0 #eff6ff inset, -1px -1px 0 #eff6ff inset;
+	-moz-box-shadow: 1px 1px 0 #eff6ff inset, -1px -1px 0 #eff6ff inset;
+	-webkit-box-shadow: 1px 1px 0 #eff6ff inset, -1px -1px 0 #eff6ff inset;
+	text-shadow: #eff6ff 1px 1px 0;
+	-moz-text-shadow: #eff6ff 1px 1px 0;
+	-webkit-text-shadow: #eff6ff 1px 1px 0;
+}
+div.alert a {
+	color: #CC0000;
+}
+div.info {
+	background: #D8E5F8 url(/climbingjordan.com/templates/jubilee/images/info.png) no-repeat 10px 50%;
+	border-color: #9ebbe1;
+	color: #0055BB;
+	text-shadow: #f4f8ff 1px 1px 0;
+	-moz-text-shadow: #f4f8ff 1px 1px 0;
+	-webkit-text-shadow: #f4f8ff 1px 1px 0;
+	box-shadow: 1px 1px 0 #eff6ff inset, -1px -1px 0 #eff6ff inset;
+	-moz-box-shadow: 1px 1px 0 #eff6ff inset, -1px -1px 0 #eff6ff inset;
+	-webkit-box-shadow: 1px 1px 0 #eff6ff inset, -1px -1px 0 #eff6ff inset;
+}
+div.info a {
+	color: #0055BB;
+}
+div.warn {
+	background: #ffd758 url(/climbingjordan.com/templates/jubilee/images/warn.png) no-repeat 10px 50%;
+	border-color: #ffb30a;
+	color: #7F5600;
+	box-shadow: 1px 1px 0 #fff5d6 inset, -1px -1px 0 #fff5d6 inset;
+	-moz-box-shadow: 1px 1px 0 #fff5d6 inset, -1px -1px 0 #fff5d6 inset;
+	-webkit-box-shadow: 1px 1px 0 #fff5d6 inset, -1px -1px 0 #fff5d6 inset;
+	text-shadow: #fff0c0 1px 1px 0;
+	-moz-text-shadow: #fff0c0 1px 1px 0;
+	-webkit-text-shadow: #fff0c0 1px 1px 0;
+}
+div.warn a {
+	color: #7F5600;
+}
+div.accept {
+	background: #b3de7e url(/climbingjordan.com/templates/jubilee/images/accept2.png) no-repeat 10px 50%;
+	border-color: #3a9805;
+	color: #4C6F22;
+	text-shadow: #cdf49e 1px 1px 0;
+	-moz-text-shadow: #cdf49e 1px 1px 0;
+	-webkit-text-shadow: #cdf49e 1px 1px 0;
+	box-shadow: 1px 1px 0 #a3e256 inset, -1px -1px 0 #a3e256 inset;
+	-moz-box-shadow: 1px 1px 0 #a3e256 inset, -1px -1px 0 #a3e256 inset;
+	-webkit-box-shadow: 1px 1px 0 #fff5d6 inset, -1px -1px 0 #fff5d6 inset;
+}
+div.accept a {
+	color: #4C6F22;
+}
+div.email {
+	background: #f3eed3 url(/climbingjordan.com/templates/jubilee/images/email.png) no-repeat 10px 50%;
+	border-color: #deb600;
+	color: #3e3e3e;
+	text-shadow: #fff 1px 1px 0;
+	-moz-text-shadow: #fff 1px 1px 0;
+	-webkit-text-shadow: #fff 1px 1px 0;
+}
+div.email a {
+	color: #988217;
+}
+div.download {
+	background: #EEF7DD url(/climbingjordan.com/templates/jubilee/images/download.png) no-repeat 10px 50%;
+	border-color: #C2DF88;
+	color: #57861A;
+	box-shadow: 1px 1px 0 #eff6ff inset, -1px -1px 0 #eff6ff inset;
+	-moz-box-shadow: 1px 1px 0 #eff6ff inset, -1px -1px 0 #eff6ff inset;
+	-webkit-box-shadow: 1px 1px 0 #eff6ff inset, -1px -1px 0 #eff6ff inset;
+	text-shadow: #eff6ff 1px 1px 0;
+	-moz-text-shadow: #eff6ff 1px 1px 0;
+	-webkit-text-shadow: #eff6ff 1px 1px 0;
+}
+div.download a {
+	color: #57861A;
+}
+div.idea {
+	background: #fdfbb9 url(/climbingjordan.com/templates/jubilee/images/idea.png) no-repeat 10px 50%;
+	border-color: #d0a21e;
+	color: #000;
+	box-shadow: 1px 1px 0 #fff inset, -1px -1px 0 #fff inset;
+	-moz-box-shadow: 1px 1px 0 #fff inset, -1px -1px 0 #fff inset;
+	-webkit-box-shadow: 1px 1px 0 #fff inset, -1px -1px 0 #fff inset;
+	text-shadow: #fdfced 1px 1px 0;
+	-moz-text-shadow: #fdfced 1px 1px 0;
+	-webkit-text-shadow: #fdfced 1px 1px 0;
+}
+div.idea a {
+}
+div.secure {
+	background: #f2f2f2 url(/climbingjordan.com/templates/jubilee/images/secure.png) no-repeat 10px 50%;
+	border-color: #dfdfdf;
+	box-shadow: 1px 1px 0 #fff inset, -1px -1px 0 #fff inset;
+	-moz-box-shadow: 1px 1px 0 #fff inset, -1px -1px 0 #fff inset;
+	-webkit-box-shadow: 1px 1px 0 #fff inset, -1px -1px 0 #fff inset;
+	color: #000;
+}
+div.secure a {
+	color: #3d52a6;
+}
+div.author {
+	background: #f2f2f2 url(/climbingjordan.com/templates/jubilee/images/author.png) no-repeat 10px 50%;
+	border-color: #e5c405;
+	color: #000;
+}
+div.author a {
+	color: #c0a71e;
+}
+div.mycomment {
+	background: #e8f6fc url(/climbingjordan.com/templates/jubilee/images/comment.png) no-repeat 10px 50%;
+	border-color: #89b4c2;
+	color: #000;
+	text-shadow: #fff 1px 1px 0;
+	-moz-text-shadow: #fff 1px 1px 0;
+	-webkit-text-shadow: #fff 1px 1px 0;
+	box-shadow: 1px 1px 0 #eff6ff inset, -1px -1px 0 #eff6ff inset;
+	-moz-box-shadow: 1px 1px 0 #eff6ff inset, -1px -1px 0 #eff6ff inset;
+	-webkit-box-shadow: 1px 1px 0 #eff6ff inset, -1px -1px 0 #eff6ff inset;
+}
+div.mycomment a {
+	color: #6e9099;
+}
+div.time {
+	background: #f7f9ff url(/climbingjordan.com/templates/jubilee/images/time.png) no-repeat 10px 50%;
+	border-color: #777;
+	color: #37494f;
+}
+div.time a {
+	color: #923232;
+}
