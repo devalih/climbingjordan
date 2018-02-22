@@ -10,151 +10,10 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="126" column="105" lean-forward="false" selection-start-line="126" selection-start-column="105" selection-end-line="126" selection-end-column="138" />
-              <folding>
-                <element signature="e#9955#9960#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/?format=feed&amp;type=atom/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="38" lean-forward="true" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/about-us/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="41" column="6" lean-forward="true" selection-start-line="41" selection-start-column="6" selection-end-line="41" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="system.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/system/css/system.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="34" lean-forward="true" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="chocolate.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/jubilee/css/chocolate.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4">
-              <caret line="99" column="19" lean-forward="false" selection-start-line="99" selection-start-column="19" selection-end-line="99" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/topos/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="134" column="102" lean-forward="false" selection-start-line="134" selection-start-column="86" selection-end-line="134" selection-end-column="102" />
-              <folding>
-                <element signature="n#style#0;n#span#0;n#p#3;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gallery/1-climbing-pics/detail/752-k-img-9309?tmpl=component/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="314">
-              <caret line="23" column="49" lean-forward="false" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
-              <folding>
-                <element signature="n#style#0;n#center#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#td#0;n#tr#1;n#table#0;n#center#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#3478#3484#1" expanded="true" />
-                <element signature="n#style#0;n#td#0;n#tr#2;n#table#0;n#center#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#5;n#tr#2;n#table#0;n#center#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gallery/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="33" column="80" lean-forward="true" selection-start-line="33" selection-start-column="48" selection-end-line="33" selection-end-column="80" />
-              <folding>
-                <marker date="1519307486519" expanded="true" signature="2812:2968" ph="..." />
-                <marker date="1519307486519" expanded="true" signature="3025:3274" ph="..." />
-                <marker date="1519307486519" expanded="true" signature="3049:3265" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/gallery/category/12-weida-kerak/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="149">
-              <caret line="33" column="49" lean-forward="false" selection-start-line="33" selection-start-column="44" selection-end-line="33" selection-end-column="49" />
-              <folding>
-                <marker date="1519307486579" expanded="true" signature="2836:2992" ph="..." />
-                <marker date="1519307486579" expanded="true" signature="3049:3298" ph="..." />
-                <marker date="1519307486579" expanded="true" signature="3073:3289" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sliderman.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/jubilee/css/sliderman.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>./../..</find>
-      <find>climbingjordan.com/images/chocolate/bg.png</find>
-      <find>..climbingjordan.com</find>
-      <find>choco</find>
-      <find>climbingjordan.com/images/chocolate</find>
-      <find>climbingjordan.com/images/slideshow</find>
-      <find>images/accept</find>
-      <find>climbingjordan.com/images/</find>
-      <find>slideshow</find>
-      <find>/climbingjordan.com/</find>
-      <find>href</find>
-      <find>href=&quot;(/[^c]{1}[^/&quot;]*)</find>
-      <find>href=&quot;(/[^c]{1}[^l]{1}[^/&quot;]*)</find>
-      <find>href=&quot;/courses</find>
-      <find>courses</find>
-      <find>course</find>
-      <find>systemclimbingjordan</find>
-      <find>system.com</find>
       <find>http://www.alpinist.com/climbingjordan.com/media/page/grades/gradingchart.jpg</find>
       <find>assetsclimbingjordan.com</find>
       <find>href=&quot;/√</find>
@@ -167,6 +26,24 @@
       <find>src=&quot;/components/</find>
       <find>shadow1.png</find>
       <find>'/components/</find>
+      <find>Araq%20%20neu.jpg</find>
+      <find>courses</find>
+      <find>&lt;form</find>
+      <find>\	\	\	\	\	\&lt;form action\=\&quot;\/offers\&quot; method\=\&quot;post\&quot; id\=\&quot;login\-form\&quot; \&gt;\n\	\	\&lt;fieldset class\=\&quot;userdata\&quot;\&gt;\n\	\&lt;p id\=\&quot;form\-login\-username\&quot;\&gt;\n\	\	\&lt;label for\=\&quot;modlgn\-username\&quot;\&gt;User Name\&lt;\/label\&gt;\n\	\	\&lt;input id\=\&quot;modlgn\-username\&quot; type\=\&quot;text\&quot; name\=\&quot;username\&quot; class\=\&quot;inputbox\&quot;  size\=\&quot;18\&quot; \/\&gt;\n\	\&lt;\/p\&gt;\n\	\&lt;p id\=\&quot;form\-login\-password\&quot;\&gt;\n\	\	\&lt;label for\=\&quot;modlgn\-passwd\&quot;\&gt;Password\&lt;\/label\&gt;\n\	\	\&lt;input id\=\&quot;modlgn\-passwd\&quot; type\=\&quot;password\&quot; name\=\&quot;password\&quot; class\=\&quot;inputbox\&quot; size\=\&quot;18\&quot;  \/\&gt;\n\	\&lt;\/p\&gt;\n\	\	\&lt;p id\=\&quot;form\-login\-remember\&quot;\&gt;\n\	\	\&lt;label for\=\&quot;modlgn\-remember\&quot;\&gt;Remember Me\&lt;\/label\&gt;\n\	\	\&lt;input id\=\&quot;modlgn\-remember\&quot; type\=\&quot;checkbox\&quot; name\=\&quot;remember\&quot; class\=\&quot;inputbox\&quot; value\=\&quot;yes\&quot;\/\&gt;\n\	\&lt;\/p\&gt;\n\	\	\&lt;input type\=\&quot;submit\&quot; name\=\&quot;Submit\&quot; class\=\&quot;button\&quot; value\=\&quot;Log in\&quot; \/\&gt;\n\	\&lt;input type\=\&quot;hidden\&quot; name\=\&quot;option\&quot; value\=\&quot;com_users\&quot; \/\&gt;\n\	\&lt;input type\=\&quot;hidden\&quot; name\=\&quot;task\&quot; value\=\&quot;user\.login\&quot; \/\&gt;\n\	\&lt;input type\=\&quot;hidden\&quot; name\=\&quot;return\&quot; value\=\&quot;aW5kZXgucGhwP0l0ZW1pZD0xMDM\=\&quot; \/\&gt;\n\	\&lt;input type\=\&quot;hidden\&quot; name\=\&quot;08412b3b7268fc2ceb2c65deb396dbbc\&quot; value\=\&quot;1\&quot; \/\&gt;\	\&lt;\/fieldset\&gt;\n\	\&lt;ul\&gt;\n\	\	\&lt;li\&gt;\n\	\	\	\&lt;a href\=\&quot;\/climbingjordan\.com\/component\/users\/\?view\=reset\&quot;\&gt;\n\	\	\	Forgot your password\?\&lt;\/a\&gt;\n\	\	\&lt;\/li\&gt;\n\	\	\&lt;li\&gt;\n\	\	\	\&lt;a href\=\&quot;\/climbingjordan\.com\/component\/users\/\?view\=remind\&quot;\&gt;\n\	\	\	Forgot your username\?\&lt;\/a\&gt;\n\	\	\&lt;\/li\&gt;\n\	\	\	\&lt;\/ul\&gt;\n\	\&lt;\/form\&gt;\n</find>
+      <find>&lt;h3&gt;Login&lt;/h3&gt;(\n|.*).*&lt;/form&gt;</find>
+      <find>&lt;h3&gt;Login&lt;/h3&gt;(\n|[^/]*)&lt;/form&gt;</find>
+      <find>passp</find>
+      <find>\&lt;a href\=\&quot;\/climbingjordan\.com\/component\/users\/\?view\=reset\&quot;\&gt;\n\	\	\	Forgot your password\?\&lt;\/a\&gt;</find>
+      <find>&lt;label for=&quot;modlgn-username&quot;&gt;User Name&lt;/label&gt;</find>
+      <find>&lt;input id=&quot;modlgn-username&quot; type=&quot;text&quot; name=&quot;username&quot; class=&quot;inputbox&quot;  size=&quot;18&quot; /&gt;</find>
+      <find>login</find>
+      <find>\	\	\&lt;label for\=\&quot;modlgn\-passwd\&quot;\&gt;Password\&lt;\/label\&gt;\n\	\	\&lt;input id\=\&quot;modlgn\-passwd\&quot; type\=\&quot;password\&quot; name\=\&quot;password\&quot; class\=\&quot;inputbox\&quot; size\=\&quot;18\&quot;  \/\&gt;\n</find>
+      <find>\	\	\&lt;p id\=\&quot;form\-login\-remember\&quot;\&gt;\n\	\	\&lt;label for\=\&quot;modlgn\-remember\&quot;\&gt;Remember Me\&lt;\/label\&gt;\n\	\	\&lt;input id\=\&quot;modlgn\-remember\&quot; type\=\&quot;checkbox\&quot; name\=\&quot;remember\&quot; class\=\&quot;inputbox\&quot; value\=\&quot;yes\&quot;\/\&gt;\n</find>
+      <find>\	\&lt;\/form\&gt;\n</find>
+      <find>&lt;form[^&gt;]*&gt;</find>
+      <find>&lt;input[^&gt;]*&gt;</find>
+      <find>&lt;label[^&gt;]*&gt;</find>
+      <find>form</find>
     </findStrings>
     <replaceStrings>
       <replace>/</replace>
@@ -188,6 +65,7 @@
       <replace>src=&quot;/climbingjordan.com/components/</replace>
       <replace>shadow1.png</replace>
       <replace>'/climbingjordan.com/components/</replace>
+      <replace />
     </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/templates/jubilee/images/slideshow</dir>
@@ -206,9 +84,13 @@
         <option value="$PROJECT_DIR$/templates/jubilee/css/chocolate.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/topos/index.html" />
-        <option value="$PROJECT_DIR$/about-us/index.html" />
         <option value="$PROJECT_DIR$/gallery/1-climbing-pics/detail/752-k-img-9309?tmpl=component/index.html" />
         <option value="$PROJECT_DIR$/gallery/category/12-weida-kerak/index.html" />
+        <option value="$PROJECT_DIR$/contact/index.html" />
+        <option value="$PROJECT_DIR$/offers/index.html" />
+        <option value="$PROJECT_DIR$/component/users/?view=reset/index.html" />
+        <option value="$PROJECT_DIR$/about-us/index.html" />
+        <option value="$PROJECT_DIR$/component/users/?view=remind/index.html" />
       </list>
     </option>
   </component>
@@ -269,6 +151,11 @@
               <item name="climbingjordan.com" type="b2602c69:ProjectViewProjectNode" />
               <item name="climbingjordan.com" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="climbingjordan.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="climbingjordan.com" type="462c0819:PsiDirectoryNode" />
+              <item name="contact" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -315,7 +202,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -323,7 +209,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2532189" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2532189" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32806325" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -399,14 +285,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/jubilee/css/chocolate.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4">
-          <caret line="99" column="19" lean-forward="false" selection-start-line="99" selection-start-column="19" selection-end-line="99" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/?format=feed&amp;type=atom/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -420,7 +298,7 @@
         <state relative-caret-position="223">
           <caret line="126" column="105" lean-forward="false" selection-start-line="126" selection-start-column="105" selection-end-line="126" selection-end-column="138" />
           <folding>
-            <element signature="e#9955#9960#0" expanded="true" />
+            <element signature="e#9027#9032#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -432,14 +310,6 @@
           <folding>
             <element signature="n#style#0;n#span#0;n#p#3;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about-us/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="41" column="6" lean-forward="true" selection-start-line="41" selection-start-column="6" selection-end-line="41" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -461,16 +331,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gallery/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="33" column="80" lean-forward="true" selection-start-line="33" selection-start-column="48" selection-end-line="33" selection-end-column="80" />
-          <folding>
-            <marker date="1519307486519" expanded="true" signature="2812:2968" ph="..." />
-            <marker date="1519307486519" expanded="true" signature="3025:3274" ph="..." />
-            <marker date="1519307486519" expanded="true" signature="3049:3265" ph="{...}" />
-          </folding>
-        </state>
+    <entry file="file://$PROJECT_DIR$/images/Araq Damaj east.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gallery/category/12-weida-kerak/index.html">
@@ -478,10 +341,84 @@
         <state relative-caret-position="149">
           <caret line="33" column="49" lean-forward="false" selection-start-line="33" selection-start-column="44" selection-end-line="33" selection-end-column="49" />
           <folding>
-            <marker date="1519307486579" expanded="true" signature="2836:2992" ph="..." />
-            <marker date="1519307486579" expanded="true" signature="3049:3298" ph="..." />
-            <marker date="1519307486579" expanded="true" signature="3073:3289" ph="{...}" />
+            <marker date="1519309024876" expanded="true" signature="2836:2992" ph="..." />
+            <marker date="1519309024876" expanded="true" signature="3049:3298" ph="..." />
+            <marker date="1519309024876" expanded="true" signature="3073:3289" ph="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gallery/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="33" column="80" lean-forward="true" selection-start-line="33" selection-start-column="48" selection-end-line="33" selection-end-column="80" />
+          <folding>
+            <marker date="1519309024635" expanded="true" signature="2812:2968" ph="..." />
+            <marker date="1519309024635" expanded="true" signature="3025:3274" ph="..." />
+            <marker date="1519309024635" expanded="true" signature="3049:3265" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/jubilee/css/chocolate.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4">
+          <caret line="99" column="19" lean-forward="false" selection-start-line="99" selection-start-column="19" selection-end-line="99" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="136" column="0" lean-forward="false" selection-start-line="136" selection-start-column="0" selection-end-line="136" selection-end-column="0" />
+          <folding>
+            <marker date="1519309024702" expanded="true" signature="6731:6998" ph="..." />
+            <marker date="1519309024702" expanded="true" signature="6836:6840" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/component/users/?view=remind/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="131" column="36" lean-forward="true" selection-start-line="131" selection-start-column="36" selection-end-line="131" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/component/users/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="130" column="4" lean-forward="false" selection-start-line="130" selection-start-column="4" selection-end-line="130" selection-end-column="4" />
+          <folding>
+            <marker date="1519309024780" expanded="true" signature="6536:6804" ph="..." />
+            <marker date="1519309024780" expanded="true" signature="6918:7221" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about-us/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="105" column="8" lean-forward="false" selection-start-line="105" selection-start-column="8" selection-end-line="105" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/offers/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="109" column="0" lean-forward="false" selection-start-line="109" selection-start-column="0" selection-end-line="109" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/component/users/?view=reset/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="138" column="20" lean-forward="false" selection-start-line="138" selection-start-column="20" selection-end-line="138" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>
