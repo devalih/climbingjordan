@@ -28,7 +28,7 @@
                 tr.append("<td>" + data[i].location + "</td>");
                 tr.append("<td>" + data[i].image + "</td>");
                 tr.append("<td>" + data[i].description + "</td>");
-                tr.append("<td>" + "<a href='crag.html?crag=" + data[i].sheet + "'>" + data[i].sheet + "</a></td>");
+                tr.append("<td>" + "<a href='crag.html?crag=" + data[i].sheet + "&thecragid=" + data[i].thecrag_id  + "'>" + data[i].sheet + "</a></td>");
                 $('table').append(tr);
             }
         }
