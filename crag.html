@@ -26,7 +26,7 @@
             };
         function init() { 
 
-            $("body").append('<iframe class="cross-domain-resizer thecrag-oembed" src="https://www.thecrag.com/climbing/jordan/area/' +  getUrlParameter("thecragid") +'?embed=1" width="100%" scrolling="no" id="iFrameResizer0" ></iframe>');
+            $("body").append('<iframe class="cross-domain-resizer thecrag-oembed" src="https://www.thecrag.com/climbing/jordan/area/' +  getUrlParameter("thecragid") +'?embed=1" width="100%" scrolling="no"  frameborder="0" id="iFrameResizer0" ></iframe>');
             iFrameResize({log:true}, '#iFrameResizer0');
 
             Tabletop.init({
