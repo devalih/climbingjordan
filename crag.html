@@ -24,8 +24,9 @@
                 }
             };
 
-        function init() {
-
+        function init() { 
+            $("body").append('<iframe id="myFrame" src="https://www.thecrag.com/climbing/jordan/area/' +  getUrlParameter("crag") +'?embed=1"></iframe>
+')
 
 
             Tabletop.init({
@@ -70,5 +71,7 @@
         <th>other</th>
     </tr>
 </table>
+    
+
 </body>
 </html>
