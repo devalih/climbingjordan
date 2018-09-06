@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <title>test</title>
     <script src="tabletop.min.js"></script>
+     <script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/3.6.1/iframeResizer.min.js" type="text/javascript"></script>
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
     <script>
 
@@ -24,8 +25,9 @@
                 }
             };
         function init() { 
-            $("body").append('<iframe frameborder="0" scrolling="no" id="myFrame" src="https://www.thecrag.com/climbing/jordan/area/' +  getUrlParameter("thecragid") +'?embed=1" height="1500px" width="100%"></iframe>');
 
+            $("body").append('<iframe class="cross-domain-resizer thecrag-oembed" src="https://www.thecrag.com/climbing/jordan/area/' +  getUrlParameter("thecragid") +'?embed=1" width="100%" scrolling="no" id="iFrameResizer0" ></iframe>');
+            iFrameResize({log:true}, '#iFrameResizer0');
 
             Tabletop.init({
                 key: public_spreadsheet_url,
@@ -53,6 +55,8 @@
         window.addEventListener('DOMContentLoaded', init);
 
     </script>
+    <style>iframe{width: 1px;min-width: 100%;}</style> 
+
 </head>
 
 <body>
