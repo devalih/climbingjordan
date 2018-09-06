@@ -23,12 +23,8 @@
                     }
                 }
             };
-          function resizeIframe(obj) {
-            obj.style.height = obj.contentWindow.document.body.scrollHeight + 'px';
-          }
-
         function init() { 
-            $("body").append('<iframe frameborder="0" scrolling="no" onload="resizeIframe(this)"  id="myFrame" src="https://www.thecrag.com/climbing/jordan/area/' +  getUrlParameter("thecragid") +'?embed=1"></iframe>');
+            $("body").append('<iframe frameborder="0" scrolling="no" id="myFrame" src="https://www.thecrag.com/climbing/jordan/area/' +  getUrlParameter("thecragid") +'?embed=1" height="1500px" width="100%"></iframe>');
 
 
             Tabletop.init({
