@@ -1,5 +1,5 @@
 body {
-	background:#F4F4F4 url(/climbingjordan.com/templates/jubilee/images/chocolate/bg.png);
+	background:#F4F4F4 url(/templates/jubilee/images/chocolate/bg.png);
 	color:#211814;
     /* Added by Sebi
         18.01.2014
@@ -16,7 +16,7 @@ a {
 	color:#AF312B;
 }
 hr {
-	background:url(/climbingjordan.com/templates/jubilee/images/chocolate/module-header.png) repeat-x 0 100%;
+	background:url(/templates/jubilee/images/chocolate/module-header.png) repeat-x 0 100%;
 }
 blockquote {
 	background:#EEE;
@@ -26,10 +26,10 @@ blockquote {
 	-webkit-box-shadow:inset 0 0 2px #FFF;
 }
 #header {
-	background:url(/climbingjordan.com/templates/jubilee/images/chocolate/header.png) repeat-x 0 0;
+	background:url(/templates/jubilee/images/chocolate/header.png) repeat-x 0 0;
 }
 #logo a {
-	background:#2C201A url(/climbingjordan.com/templates/jubilee/images/chocolate/logo.png) no-repeat 50% 50%;
+	background:#2C201A url(/templates/jubilee/images/chocolate/logo.png) no-repeat 50% 50%;
 	border-left:1px solid #100C0A;
 	border-right:1px solid #100C0A;
 }
@@ -50,14 +50,14 @@ blockquote {
 	-webkit-box-shadow:inset 0 0 1px #FFF;
 }
 #search .button {
-	background:url(/climbingjordan.com/templates/jubilee/images/chocolate/btn-search.gif) no-repeat 0 0;
+	background:url(/templates/jubilee/images/chocolate/btn-search.gif) no-repeat 0 0;
 }
 #mainmenu {
-	background:#AF8836 url(/climbingjordan.com/templates/jubilee/images/chocolate/mainmenu.png) repeat-x 0 0;
+	background:#AF8836 url(/templates/jubilee/images/chocolate/mainmenu.png) repeat-x 0 0;
 }
 #mainmenu ul li:hover,
 #mainmenu ul li.active {
-	background:#C9A14A url(/climbingjordan.com/templates/jubilee/images/chocolate/menu-hover.png) no-repeat 50% 100%;
+	background:#C9A14A url(/templates/jubilee/images/chocolate/menu-hover.png) no-repeat 50% 100%;
 }
 #mainmenu ul li a {
 	color:#FFF;
@@ -74,30 +74,30 @@ blockquote {
 	background:none;
 }
 #banner {
-	background:#ECC05D url(/climbingjordan.com/templates/jubilee/images/chocolate/banner.png);
+	background:#ECC05D url(/templates/jubilee/images/chocolate/banner.png);
 }
 #banner-inner {
-	background:url(/climbingjordan.com/templates/jubilee/images/chocolate/banner-inner.png) repeat-x 0 0;
+	background:url(/templates/jubilee/images/chocolate/banner-inner.png) repeat-x 0 0;
 }
 #banner-inner2 {
-	background:url(/climbingjordan.com/templates/jubilee/images/chocolate/banner-inner2.png) repeat-x 0 100%;
+	background:url(/templates/jubilee/images/chocolate/banner-inner2.png) repeat-x 0 100%;
 	text-shadow:1px 1px 1px #F7D470;
 	-moz-text-shadow:1px 1px 1px #F7D470;
 	-webkit-text-shadow:1px 1px 1px #F7D470;
 }
 #container {
-	background:url(/climbingjordan.com/templates/jubilee/images/chocolate/container.png) repeat-x 0 0;
+	background:url(/templates/jubilee/images/chocolate/container.png) repeat-x 0 0;
 }
 #modules-1,
 #modules-2 {
-	background:url(/climbingjordan.com/templates/jubilee/images/chocolate/module-header.png) repeat-x 0 100%;
+	background:url(/templates/jubilee/images/chocolate/module-header.png) repeat-x 0 100%;
 }
 #modules-3,
 #modules-4 {
-	background:url(/climbingjordan.com/templates/jubilee/images/chocolate/module-header.png) repeat-x 0 0;
+	background:url(/templates/jubilee/images/chocolate/module-header.png) repeat-x 0 0;
 }
 #footer {
-	background:url(/climbingjordan.com/templates/jubilee/images/chocolate/module-header.png) repeat-x 0 0;
+	background:url(/templates/jubilee/images/chocolate/module-header.png) repeat-x 0 0;
 }
 input[type=text], input[type=password], select, textarea{
 	border: 1px solid;
@@ -107,7 +107,7 @@ button, input[type="reset"],
 input[type="submit"], 
 input[type="button"],
 div.profile a {
-	background: #ddd url(/climbingjordan.com/templates/jubilee/images/button-light.png) repeat-x;
+	background: #ddd url(/templates/jubilee/images/button-light.png) repeat-x;
 	background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #fff), color-stop(1, #ddd));
 	background: -moz-linear-gradient(top center, #fff 0%, #ddd 100%);
 	border: 1px solid;
@@ -126,7 +126,7 @@ div.profile a:active {
 }
 p.readmore a, .readon a,
 a.readmore , a.readon{
-	background: #ddd url(/climbingjordan.com/templates/jubilee/images/button-light.png) repeat-x;
+	background: #ddd url(/templates/jubilee/images/button-light.png) repeat-x;
 	background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #fff), color-stop(1, #ddd));
 	background: -moz-linear-gradient(top center, #fff 0%, #ddd 100%);
 	border: 1px solid;
@@ -335,34 +335,34 @@ span.highlight {
 	border-bottom:1px solid #CCC;
 }
 div.moduletable ul.menu li a{
-	background:url(/climbingjordan.com/templates/jubilee/images/arrow.png) no-repeat 0 10px;
+	background:url(/templates/jubilee/images/arrow.png) no-repeat 0 10px;
 	border-bottom:1px dotted #CCC;
 }
 div.moduletable ul.menu li li a{
-	background:#E4E4E4 url(/climbingjordan.com/templates/jubilee/images/arrow.png) no-repeat 5px 10px;
+	background:#E4E4E4 url(/templates/jubilee/images/arrow.png) no-repeat 5px 10px;
 	border:0;
 }
 div.moduletable ul.menu li li li a{
-	background:#EEE url(/climbingjordan.com/templates/jubilee/images/arrow.png) no-repeat 10px 10px;
+	background:#EEE url(/templates/jubilee/images/arrow.png) no-repeat 10px 10px;
 	border:0;
 }
 div.moduletable ul.menu li li li li a{
-	background:#F8F8F8 url(/climbingjordan.com/templates/jubilee/images/arrow.png) no-repeat 15px 10px;
+	background:#F8F8F8 url(/templates/jubilee/images/arrow.png) no-repeat 15px 10px;
 }
 div.moduletable ul.menu li li li li li a{
-	background:#FFF url(/climbingjordan.com/templates/jubilee/images/arrow.png) no-repeat 20px 10px;
+	background:#FFF url(/templates/jubilee/images/arrow.png) no-repeat 20px 10px;
 }
 ul.mostread li {
-	background:url(/climbingjordan.com/templates/jubilee/images/thumb_up.png) no-repeat 0 4px;
+	background:url(/templates/jubilee/images/thumb_up.png) no-repeat 0 4px;
 }
 ul.latestnews li {
-	background:url(/climbingjordan.com/templates/jubilee/images/newspaper.png) no-repeat 0 4px;
+	background:url(/templates/jubilee/images/newspaper.png) no-repeat 0 4px;
 }
 ul.archive-module li {
-	background:url(/climbingjordan.com/templates/jubilee/images/package.png) no-repeat 0 4px;
+	background:url(/templates/jubilee/images/package.png) no-repeat 0 4px;
 }
 ul.relateditems li {
-	background:url(/climbingjordan.com/templates/jubilee/images/arrow_right.png) no-repeat 0 4px;
+	background:url(/templates/jubilee/images/arrow_right.png) no-repeat 0 4px;
 }
 ul.categories-module li {
 	border-bottom:1px dotted #CCC;
@@ -371,22 +371,22 @@ ul.category-module li {
 	border-bottom:1px dotted #CCC;
 }
 ul.latestusers li {
-	background:url(/climbingjordan.com/templates/jubilee/images/user_gray.png) no-repeat 0 4px;
+	background:url(/templates/jubilee/images/user_gray.png) no-repeat 0 4px;
 }
 ul.whosonline li {
-	background:url(/climbingjordan.com/templates/jubilee/images/user_green.png) no-repeat 0 4px;
+	background:url(/templates/jubilee/images/user_green.png) no-repeat 0 4px;
 }
 #login-form li {
-	background:url(/climbingjordan.com/templates/jubilee/images/accept.png) no-repeat 0 4px;
+	background:url(/templates/jubilee/images/accept.png) no-repeat 0 4px;
 }
 ul.newsfeed li {
 	border-bottom:1px dotted #CCC;
 }
 ul.weblinks li {
-	background:url(/climbingjordan.com/templates/jubilee/images/world.png) no-repeat 0 4px;
+	background:url(/templates/jubilee/images/world.png) no-repeat 0 4px;
 }
 dl.stats-module dt {
-	background:url(/climbingjordan.com/templates/jubilee/images/chart_pie_alternative.png) no-repeat 0 4px;
+	background:url(/templates/jubilee/images/chart_pie_alternative.png) no-repeat 0 4px;
 }
 #SliderName {
 	background: #2C201A;

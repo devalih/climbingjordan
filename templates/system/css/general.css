@@ -67,32 +67,32 @@ label.invalid { color: #ff0000; }
 }
 
 .button2-left {
-	background: url(/climbingjordan.com/images/j_button2_left.png) no-repeat;
+	background: url(/images/j_button2_left.png) no-repeat;
 	float: left;
 	margin-left: 5px;
 }
 
 .button2-right {
-	background: url(/climbingjordan.com/images/j_button2_right.png) 100% 0 no-repeat;
+	background: url(/images/j_button2_right.png) 100% 0 no-repeat;
 	float: left;
 	margin-left: 5px;
 }
 
 .button2-left .image {
-	background: url(/climbingjordan.com/images/j_button2_image.png) 100% 0 no-repeat;
+	background: url(/images/j_button2_image.png) 100% 0 no-repeat;
 }
 
 .button2-left .readmore,
 .button2-left .article {
-	background: url(/climbingjordan.com/images/j_button2_readmore.png) 100% 0 no-repeat;
+	background: url(/images/j_button2_readmore.png) 100% 0 no-repeat;
 }
 
 .button2-left .pagebreak {
-	background: url(/climbingjordan.com/images/j_button2_pagebreak.png) 100% 0 no-repeat;
+	background: url(/images/j_button2_pagebreak.png) 100% 0 no-repeat;
 }
 
 .button2-left .blank {
-	background: url(/climbingjordan.com/images/j_button2_blank.png) 100% 0 no-repeat;
+	background: url(/images/j_button2_blank.png) 100% 0 no-repeat;
 }
 
 /* Tooltips */
@@ -113,7 +113,7 @@ div.tooltip h4 {
 	margin-top: -15px;
 	padding-top: 15px;
 	padding-bottom: 5px;
-	background: url(/climbingjordan.com/images/selector-arrow.png) no-repeat;
+	background: url(/images/selector-arrow.png) no-repeat;
 }
 
 div.tooltip p {
@@ -158,7 +158,7 @@ a img.calendar {
 	width: 16px;
 	height: 16px;
 	margin-left: 3px;
-	background: url(/climbingjordan.com/images/calendar.png) no-repeat;
+	background: url(/images/calendar.png) no-repeat;
 	cursor: pointer;
 	vertical-align: middle;
 }

@@ -22,9 +22,9 @@ Disallow: /installation/
 Disallow: /language/
 Disallow: /libraries/
 Disallow: /logs/
-Disallow: /climbingjordan.com/media/
+Disallow: /media/
 Disallow: /modules/
 Disallow: /plugins/
-Disallow: /climbingjordan.com/templates/
+Disallow: /templates/
 Disallow: /tmp/
 

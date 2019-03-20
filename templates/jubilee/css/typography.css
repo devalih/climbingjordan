@@ -172,7 +172,7 @@ div.note a, div.alert a, div.info a, div.email a, div.download a, div.warn a, di
 	font-weight:bold;
 }
 div.note {
-	background:#FEF6D8 url(/climbingjordan.com/templates/jubilee/images/note.png) no-repeat 10px 50%;
+	background:#FEF6D8 url(/templates/jubilee/images/note.png) no-repeat 10px 50%;
 	border-color:#FDE179;
 	color:#B79000;
 	box-shadow: 1px 1px 0 #eff6ff inset, -1px -1px 0 #eff6ff inset;
@@ -186,7 +186,7 @@ div.note a {
 	color:#B79000;
 }
 div.alert {
-	background: #FFD6D6 url(/climbingjordan.com/templates/jubilee/images/alert.png) no-repeat 10px 50%;
+	background: #FFD6D6 url(/templates/jubilee/images/alert.png) no-repeat 10px 50%;
 	border-color: #FE7B7A;
 	color: #CC0000;
 	box-shadow: 1px 1px 0 #eff6ff inset, -1px -1px 0 #eff6ff inset;
@@ -200,7 +200,7 @@ div.alert a {
 	color: #CC0000;
 }
 div.info {
-	background: #D8E5F8 url(/climbingjordan.com/templates/jubilee/images/info.png) no-repeat 10px 50%;
+	background: #D8E5F8 url(/templates/jubilee/images/info.png) no-repeat 10px 50%;
 	border-color: #9ebbe1;
 	color: #0055BB;
 	text-shadow: #f4f8ff 1px 1px 0;
@@ -214,7 +214,7 @@ div.info a {
 	color: #0055BB;
 }
 div.warn {
-	background: #ffd758 url(/climbingjordan.com/templates/jubilee/images/warn.png) no-repeat 10px 50%;
+	background: #ffd758 url(/templates/jubilee/images/warn.png) no-repeat 10px 50%;
 	border-color: #ffb30a;
 	color: #7F5600;
 	box-shadow: 1px 1px 0 #fff5d6 inset, -1px -1px 0 #fff5d6 inset;
@@ -228,7 +228,7 @@ div.warn a {
 	color: #7F5600;
 }
 div.accept {
-	background: #b3de7e url(/climbingjordan.com/templates/jubilee/images/accept2.png) no-repeat 10px 50%;
+	background: #b3de7e url(/templates/jubilee/images/accept2.png) no-repeat 10px 50%;
 	border-color: #3a9805;
 	color: #4C6F22;
 	text-shadow: #cdf49e 1px 1px 0;
@@ -242,7 +242,7 @@ div.accept a {
 	color: #4C6F22;
 }
 div.email {
-	background: #f3eed3 url(/climbingjordan.com/templates/jubilee/images/email.png) no-repeat 10px 50%;
+	background: #f3eed3 url(/templates/jubilee/images/email.png) no-repeat 10px 50%;
 	border-color: #deb600;
 	color: #3e3e3e;
 	text-shadow: #fff 1px 1px 0;
@@ -253,7 +253,7 @@ div.email a {
 	color: #988217;
 }
 div.download {
-	background: #EEF7DD url(/climbingjordan.com/templates/jubilee/images/download.png) no-repeat 10px 50%;
+	background: #EEF7DD url(/templates/jubilee/images/download.png) no-repeat 10px 50%;
 	border-color: #C2DF88;
 	color: #57861A;
 	box-shadow: 1px 1px 0 #eff6ff inset, -1px -1px 0 #eff6ff inset;
@@ -267,7 +267,7 @@ div.download a {
 	color: #57861A;
 }
 div.idea {
-	background: #fdfbb9 url(/climbingjordan.com/templates/jubilee/images/idea.png) no-repeat 10px 50%;
+	background: #fdfbb9 url(/templates/jubilee/images/idea.png) no-repeat 10px 50%;
 	border-color: #d0a21e;
 	color: #000;
 	box-shadow: 1px 1px 0 #fff inset, -1px -1px 0 #fff inset;
@@ -280,7 +280,7 @@ div.idea {
 div.idea a {
 }
 div.secure {
-	background: #f2f2f2 url(/climbingjordan.com/templates/jubilee/images/secure.png) no-repeat 10px 50%;
+	background: #f2f2f2 url(/templates/jubilee/images/secure.png) no-repeat 10px 50%;
 	border-color: #dfdfdf;
 	box-shadow: 1px 1px 0 #fff inset, -1px -1px 0 #fff inset;
 	-moz-box-shadow: 1px 1px 0 #fff inset, -1px -1px 0 #fff inset;
@@ -291,7 +291,7 @@ div.secure a {
 	color: #3d52a6;
 }
 div.author {
-	background: #f2f2f2 url(/climbingjordan.com/templates/jubilee/images/author.png) no-repeat 10px 50%;
+	background: #f2f2f2 url(/templates/jubilee/images/author.png) no-repeat 10px 50%;
 	border-color: #e5c405;
 	color: #000;
 }
@@ -299,7 +299,7 @@ div.author a {
 	color: #c0a71e;
 }
 div.mycomment {
-	background: #e8f6fc url(/climbingjordan.com/templates/jubilee/images/comment.png) no-repeat 10px 50%;
+	background: #e8f6fc url(/templates/jubilee/images/comment.png) no-repeat 10px 50%;
 	border-color: #89b4c2;
 	color: #000;
 	text-shadow: #fff 1px 1px 0;
@@ -313,7 +313,7 @@ div.mycomment a {
 	color: #6e9099;
 }
 div.time {
-	background: #f7f9ff url(/climbingjordan.com/templates/jubilee/images/time.png) no-repeat 10px 50%;
+	background: #f7f9ff url(/templates/jubilee/images/time.png) no-repeat 10px 50%;
 	border-color: #777;
 	color: #37494f;
 }

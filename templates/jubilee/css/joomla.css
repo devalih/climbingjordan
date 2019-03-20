@@ -3,10 +3,10 @@
 	background-position:4px 50%;
 }
 #system-message dd.message ul {
-    background-image: url(/climbingjordan.com/templates/jubilee/images/information.png);
+    background-image: url(/templates/jubilee/images/information.png);
 }
 #system-message dd.error ul {
-	background-image: url(/climbingjordan.com/templates/jubilee/images/error.png);
+	background-image: url(/templates/jubilee/images/error.png);
 }
 /* Random */
 .image-left {
@@ -120,25 +120,25 @@ dl.article-info dd {
 	display:inline-block;
 }
 dl.article-info dd.parent-category-name {
-	background:url(/climbingjordan.com/templates/jubilee/images/folder_go.png) no-repeat 0 6px;
+	background:url(/templates/jubilee/images/folder_go.png) no-repeat 0 6px;
 }
 dl.article-info dd.category-name {
-	background:url(/climbingjordan.com/templates/jubilee/images/folder.png) no-repeat 0 6px;
+	background:url(/templates/jubilee/images/folder.png) no-repeat 0 6px;
 }
 dl.article-info dd.create {
-	background:url(/climbingjordan.com/templates/jubilee/images/date_add.png) no-repeat 0 6px;
+	background:url(/templates/jubilee/images/date_add.png) no-repeat 0 6px;
 }
 dl.article-info dd.published {
-	background:url(/climbingjordan.com/templates/jubilee/images/date.png) no-repeat 0 6px;
+	background:url(/templates/jubilee/images/date.png) no-repeat 0 6px;
 }
 dl.article-info dd.modified {
-	background:url(/climbingjordan.com/templates/jubilee/images/date_edit.png) no-repeat 0 6px;
+	background:url(/templates/jubilee/images/date_edit.png) no-repeat 0 6px;
 }
 dl.article-info dd.createdby {
-	background:url(/climbingjordan.com/templates/jubilee/images/user.png) no-repeat 0 6px;
+	background:url(/templates/jubilee/images/user.png) no-repeat 0 6px;
 }
 dl.article-info dd.hits {
-	background:url(/climbingjordan.com/templates/jubilee/images/chart_bar.png) no-repeat 0 6px;
+	background:url(/templates/jubilee/images/chart_bar.png) no-repeat 0 6px;
 }
 div#article-index {
 	display:block;
