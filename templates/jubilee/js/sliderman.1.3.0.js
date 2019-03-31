@@ -3,7 +3,7 @@
 * Version: 1.3.0
 * Author: Taras Ozarko (tozarko@gmail.com)
 *
-* (c) 2010-2011 Devtrix. All rights reserved. http://www.devtrix.net/sliderman/
+* (c) 2010-2011 Devtrix. All rights reserved. https://www.devtrix.net/sliderman/
 **/
 
 var Sliderman = new function(){
